@@ -30,27 +30,27 @@ Die gemeinnützige Organisation, die hinter IOTA steht, treibt die Adoption und 
 ### Module 1: NODE IDENTITIES
 Bauen einen guten Ruf auf und sichere das Netzwerk, indem du ein guter Mitspieler bist.
 
-[Mehr erfahren](04_module_1.md)
+[Mehr erfahren](./04_module_1.md)
 
 ### Module 2: AUTO-PEERING
 Stellt automatisch eine Verbindung zum Netzwerk her und vereinfacht die Einrichtung und Wartung der Nodes.
 
-[Mehr erfahren](04_module_2.md)
+[Mehr erfahren](./04_module_2.md)
 
 ### Module 3: SPAM PROTECTION
 Ermöglicht IoT-Geräten mit geringem Stromverbrauch den Zugriff auf das Netzwerk über einen Mechanismus zur adaptiven Ratensteuerung.
 
-[Mehr erfahren](04_module_3.md)
+[Mehr erfahren](./04_module_3.md)
 
 ### Module 4: TIP SELECTION
 Ein optimierter Tippauswahlalgorithmus verbessert die Bestätigungszeiten und stellt die Transaktionsbestätigung sicher.
 
-[Mehr erfahren](04_module_4.md)
+[Mehr erfahren](./04_module_4.md)
 
 ### Module 5: SHIMMER
 Das revolutionäre Abstimmungsmodul erreicht innerhalb von Sekunden einen Konsens. Durch die Nutzung proaktiver Kommunikation im Netzwerk werden irreversible Transaktionen nahezu augenblicklich ermöglicht.
 
-[Mehr erfahren](04_module_5.md)
+[Mehr erfahren](./04_module_5.md)
 
 ## WHITEPAPER (Englisch)
 Formelle Präsentation des Coordicides
