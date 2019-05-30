@@ -39,3 +39,6 @@ Ziel von Coordicide ist es, das Skalierbarkeitstrilemma zu lösen, indem ein dez
 Um den Koordinator zu entfernen, müssen eine Reihe von Herausforderungen gelöst werden. Aufgrund der Komplexität der Lösung wird Coordicide in verschiedene Komponenten unterteilt. Dieser Ansatz macht unseren Coordicide modular, was bedeutet, dass jedes Modul unabhängig ersetzt werden kann, wenn neue Forschungsergebnisse weitere Verbesserungen ergeben.
 
 Unser Ziel ist es, IOTA zum Goldstandard zu machen: unternehmensfähiges DLT in Zusammenarbeit mit [wichtigen Organisationen](https://blog.iota.org/iota-becomes-a-founding-member-of-new-international-association-of-trusted-blockchain-applications-b0c6417aaded) und [Normungsorganisationen](https://www.omg.org/cgi-bin/doc?omg/2019-03-03) unter Verwendung von [Open Source Governance](https://projects.eclipse.org/proposals/eclipse-iota-trinity).
+
+### [Nächstes Kapitel](./03_modularitaet)
+### [Kapitel zurück](./01_iota_als_skalierbares_dlt)

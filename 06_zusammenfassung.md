@@ -81,3 +81,5 @@ Die Technologie ist kostenlos, Open Source und jeder kann darauf Lösungen aufba
 Wir hoffen, dass du nach dem Lesen dieser Website und der technischen Dokumente ein besseres Verständnis für die bevorstehenden Herausforderungen hast, aber auch unsere Begeisterung für unseren weiteren Weg teilst.
 
 Coordicide Team - Mai 2019
+
+### [Glossar](./glossar)

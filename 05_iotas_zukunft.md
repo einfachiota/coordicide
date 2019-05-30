@@ -4,8 +4,6 @@ Bisher haben wir die direkten Auswirkungen von Coordicide auf das IOTA-Netzwerk 
 
 Es gibt indirekte Implikationen, die ebenso faszinierend sind, aber möglicherweise nicht sofort offensichtlich sind. Obwohl diese Website nicht den Umfang hat, diese Auswirkungen ausführlich zu behandeln, möchten wir dennoch einige erste Diskussionen über einige der wichtigsten Funktionen aufzeigen.
 
-
-
 ## Zuverlässige Zeitstempel
 ![05_future1](https://github.com/einfachiota/coordicide/raw/master/assets/05_future1.png)
 
@@ -18,7 +16,6 @@ Ob eine Transaktion beliebt ist, kann dann lokal abgeleitet werden, d. H. Indem 
 - Da das Netzwerk einen Konsens darüber erzielen kann, welche Transaktionen glaubwürdige Zeitstempel enthalten, können wir anfangen, auf Zeitstempelwerte zu vertrauen und ein vollständig geordneten Tangle aufzubauen. Wenn zwei Transaktionen den gleichen Zeitstempel tragen, sortieren wir sie einfach nach ihrem Transaktions-Hash.
 
 Die Unfähigkeit, einen geordnete Reihenfolge zu erstellen, war einer der größten Nachteile von DLTs auf DAG-Basis in Bezug auf „intelligente Verträge“.
-
 
 ## mehrere Tangles (Domänen)
 ![05_future2](https://github.com/einfachiota/coordicide/raw/master/assets/05_future2.png)
@@ -37,3 +34,7 @@ Da der Tangle die allgemeinste Form der DAG ist und Bundles 1 auf n andere Trans
 ## Zusätzliche Regeln, die im Signaturnachrichtenfragment codiert sind
 
 Da jede Transaktion ein „Signaturnachrichtenfragment“ (“signature message fragment”) enthält, das beliebige Daten enthalten kann, können komplexere Verhaltensweisen codiert werden (z. B. bestimmte Bedingungen für die Anwendung einer Transaktion oder automatisch ausgelöste Nebenwirkungen). Diese können dann analysiert und von den Knoten dieser bestimmten Domäne angewendet werden.
+
+### [Nächstes Kapitel](./06_zusammenfassung)
+### [Kapitel zurück](./04_module_5_3)
+

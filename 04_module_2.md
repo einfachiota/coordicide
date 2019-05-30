@@ -7,3 +7,6 @@ Wir führen einen Auto-Peering-Mechanismus ein, bei dem jeder Knoten seine eigen
 ![04_2_auto_peering](https://github.com/einfachiota/coordicide/raw/master/assets/04_2_auto_peering.gif)
 
 Darüber hinaus wird der Auto-Peering-Mechanismus versuchen, ein Small-World-Netzwerk zu erstellen, in dem Knoten von jedem anderen Knoten über eine kleine Anzahl von Zwischenschritten erreicht werden können. Diese Eigenschaft beschleunigt das Erziellen eines Konsens erheblich.
+
+### [Nächstes Kapitel](./04_module_3)
+### [Kapitel zurück](./04_module_1)

@@ -31,3 +31,6 @@ Die Definition einer Konsensschicht, die beschreibt, wie sich Knoten darauf eini
 ![01_milestones](https://github.com/einfachiota/coordicide/raw/master/assets/01_milestones.gif)
 
 Die Lösung für Coordicide stellt sicher, dass das Netzwerk nicht beeinträchtigt wird, gleichzeitig werden Dezentralisierung und Sicherheit gewährleistet und eine beispiellose Skalierbarkeit gefördert.
+
+### [Nächstes Kapitel](./02_iota_post-coordinator)
+### [Kapitel zurück](./00_einleitung)

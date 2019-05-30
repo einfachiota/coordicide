@@ -15,3 +15,6 @@ Dieser Abstimmungsprozess hat die entscheidende Eigenschaft, dass er sehr schnel
 Nach einer bestimmten Anzahl von Abstimmungsrunden, in denen ein Knoten seine Meinung nicht ändert, kann die Meinung als endgültig betrachtet werden und erfordert keine weitere Abstimmung. Diese Anzahl kann so gewählt werden, dass die Wahrscheinlichkeit, dass das gesamte Netzwerk einen Konsens erreicht hat, beliebig hoch ist.
 
 Aus diesem Grund bietet der Fast Probabilistic Consensus einen Ansatz, mit dem nach einer geringen Anzahl von Runden und mit einer geringen Anzahl von Stichprobenknoten ein Konsens erzielt werden kann, wodurch die erforderlichen Bedingungen für jeden Abstimmungsprozess mit Shimmer erfüllt werden.
+
+### [Nächstes Kapitel](./05_iotas_zukunft)
+### [Kapitel zurück](./04_module_5_2)

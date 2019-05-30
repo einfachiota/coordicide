@@ -22,3 +22,6 @@ Das Manasystem kombiniert die Vorteile eines fondsbasierten Sybil-Schutzmechanis
 Mana beruht auf der Vorstellung, dass es schwierig ist, Ansehen zu erlangen, aber leicht zu verlieren. Ein Schlüsselaspekt jedes Reputationssystems ist die Fähigkeit, schlechte Mitspieler zu bestrafen, indem sie zuvor gewährte Reputation widerrufen. In IOTA ist dies so einfach wie das erneute Zuweisen Ihres gewährten Manas zu einem anderen Knoten, wenn festgestellt wird, dass sich Ihr derzeit bevorzugter Knoten „schlecht benimmt“ (z. B. das Weitergeben ungültiger Transaktionen).
 
 Ein entscheidender Vorteil von Mana ist schließlich, dass im Gegensatz zu anderen Sybil-Schutzmechanismen, bei denen die Knoten-ID mit dem privaten Schlüssel des Eigentümers verknüpft ist und Benutzer zur Teilnahme an komplexen und potenziell riskanten Einsätzen gezwungen werden. Das Manasystem sorgt dafür,dass ein großer Teil der Mittel für die Zuweisung von Ruf verwendet wird.
+
+### [Nächstes Kapitel](./04_module_2)
+### [Kapitel zurück](./04_bausteine)

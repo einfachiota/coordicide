@@ -15,3 +15,6 @@ Wir erzwingen eine maximale Transaktionsrate pro Knoten, um Spam weiter zu verhi
 - Es schützt das Netzwerk vor böswilligen schnellen Akteuren, z. B. Knoten, die ASICs verwenden, um das Netzwerk zu spammen und / oder den Konsens zu beeinflussen.
 
 - Der Hauptanwendungsfall von IOTA ist das Internet der Dinge (IoT), das aus Knoten mit begrenzten Ressourcen besteht, die nur selten Transaktionen senden. Dieser Mechanismus ermöglicht es langsameren Knoten, ihre Transaktionen erfolgreich über das Netzwerk zu verbreiten.
+
+### [Nächstes Kapitel](./04_module_4)
+### [Kapitel zurück](./04_module_2)

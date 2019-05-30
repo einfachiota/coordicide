@@ -15,3 +15,6 @@ Die Antwort ist wieder relativ einfach. Wenn zwei Transaktionen in Konflikt steh
 Herkömmliche PoW-basiertee DLT's bieten eine Reihe von Antworten auf diese Fragen, diese weisen jedoch erhebliche Nachteile auf. Ein PoW-basierter Konsens in IOTA würde Minenrennen einleiten und zu einem erhöhten Stromverbrauch und höheren Kosten führen, wodurch die Verwendung des Netzwerks im IoT eingeschränkt würde.
 
 Eine geeignetere Lösung wird in den folgenden Abschnitten beschrieben.
+
+### [Nächstes Kapitel](./04_module_1)
+### [Kapitel zurück](./03_modularitaet)

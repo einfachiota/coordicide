@@ -64,3 +64,5 @@ Fast Probabilistic Consensus Paper
 [Orginal Webseite](https://coordicide.iota.org)
 
 [Powered by IOTA](https://www.iota.org)
+
+### [Nächstes Kapitel](./01_iota_als_skalierbares_dlt)
