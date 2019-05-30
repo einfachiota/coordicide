@@ -25,5 +25,5 @@ In den folgenden Abschnitten beschreiben wir den aktuellen Stand der Abstimmungs
 - "Cellular Consensus", der das Verhalten in einem Zellularautomaten nachahmt, und
 - „Fast Probabilistic Consensus“ (Schneller probabilistischer Konsens), der mithilfe der Wahrscheinlichkeitstheorie starke Sicherheitsgarantien bietet.
 
-### [Nächstes Kapitel](./04_module_5_1)
-### [Kapitel zurück](./04_module_4)
+### [Nächstes Kapitel](./04_module_5_1.md)
+### [Kapitel zurück](./04_module_4.md)

@@ -65,4 +65,4 @@ Fast Probabilistic Consensus Paper
 
 [Powered by IOTA](https://www.iota.org)
 
-### [Nächstes Kapitel](./01_iota_als_skalierbares_dlt)
+### [Nächstes Kapitel](./01_iota_als_skalierbares_dlt.md)

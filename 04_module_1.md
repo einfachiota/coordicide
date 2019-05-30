@@ -23,5 +23,5 @@ Mana beruht auf der Vorstellung, dass es schwierig ist, Ansehen zu erlangen, abe
 
 Ein entscheidender Vorteil von Mana ist schließlich, dass im Gegensatz zu anderen Sybil-Schutzmechanismen, bei denen die Knoten-ID mit dem privaten Schlüssel des Eigentümers verknüpft ist und Benutzer zur Teilnahme an komplexen und potenziell riskanten Einsätzen gezwungen werden. Das Manasystem sorgt dafür,dass ein großer Teil der Mittel für die Zuweisung von Ruf verwendet wird.
 
-### [Nächstes Kapitel](./04_module_2)
-### [Kapitel zurück](./04_bausteine)
+### [Nächstes Kapitel](./04_module_2.md)
+### [Kapitel zurück](./04_bausteine.md)

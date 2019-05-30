@@ -35,6 +35,6 @@ Da der Tangle die allgemeinste Form der DAG ist und Bundles 1 auf n andere Trans
 
 Da jede Transaktion ein „Signaturnachrichtenfragment“ (“signature message fragment”) enthält, das beliebige Daten enthalten kann, können komplexere Verhaltensweisen codiert werden (z. B. bestimmte Bedingungen für die Anwendung einer Transaktion oder automatisch ausgelöste Nebenwirkungen). Diese können dann analysiert und von den Knoten dieser bestimmten Domäne angewendet werden.
 
-### [Nächstes Kapitel](./06_zusammenfassung)
-### [Kapitel zurück](./04_module_5_3)
+### [Nächstes Kapitel](./06_zusammenfassung.md)
+### [Kapitel zurück](./04_module_5_3.md)
 

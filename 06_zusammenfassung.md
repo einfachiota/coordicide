@@ -82,4 +82,4 @@ Wir hoffen, dass du nach dem Lesen dieser Website und der technischen Dokumente 
 
 Coordicide Team - Mai 2019
 
-### [Glossar](./glossar)
+### [Glossar](./glossar.md)

@@ -23,5 +23,5 @@ Wir untersuchen zwei verschiedene Ansätze zur Durchführung und Sicherung von A
 
 Diese weisen unterschiedliche Eigenschaften auf, zeigen aber beide gleich vielversprechende rasche Ergebnisse und werden in Kürze auf einem öffentlichen Testnetz unter die Lupe genommen. Glücklicherweise macht es die Modularität des Protokolls sehr einfach, beide parallel zu testen.
 
-### [Nächstes Kapitel](./04_module_5_3)
-### [Kapitel zurück](./04_module_5_1)
+### [Nächstes Kapitel](./04_module_5_3.md)
+### [Kapitel zurück](./04_module_5_1.md)

@@ -22,5 +22,5 @@ Wir verweisen interessierte Leser auch auf das [Coordicide White Paper](https://
 
 Was folgt, ist eine Karte der Grundbausteine für ein Post-Koordinator-IOTA-Netzwerk. Die IOTA Foundation ist derzeit dabei, einen Prototyp des Systems zu entwickeln und planen, Testnetze für einzelne Bausteine freizugeben, bevor die Komponenten zu einem einzigen Testnetz ohne Koordinatoren zusammengeführt werden. Es werden neue Simulationsergebnisse veröffentlicht, sobald sie verfügbar sind, und die IOTA Foundation freut sich darauf, mit der Community an diesen Testnetzen zu arbeiten.
 
-### [Nächstes Kapitel](./04_bausteine)
-### [Kapitel zurück](./02_iota_post-coordinator)
+### [Nächstes Kapitel](./04_bausteine.md)
+### [Kapitel zurück](./02_iota_post-coordinator.md)

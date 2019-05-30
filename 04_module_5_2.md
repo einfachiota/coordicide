@@ -48,5 +48,5 @@ Dieser Ansatz weist eine Reihe von überzeugenden Merkmalen auf, die in keinem a
 
 Während emergente Phänomene in biologischen Systemen weit verbreitet sind und sich in der Praxis bewährt haben, ist es äußerst schwierig, sie mathematisch zu modellieren, da sie von Natur aus chaotisch und komplex sind. Der größte Nachteil des Ansatzes ist daher die Komplexität der Formalisierung seiner wissenschaftlichen Beweise. Es wäre notwendig, Cellular Consensus in einer Testnetzumgebung gründlich zu untersuchen, bevor es im Hauptnetz bereitgestellt werden kann.
 
-### [Nächstes Kapitel](./04_module_5_3)
-### [Kapitel zurück](./04_module_5_1)
+### [Nächstes Kapitel](./04_module_5_3.md)
+### [Kapitel zurück](./04_module_5_1.md)

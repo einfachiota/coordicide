@@ -16,5 +16,5 @@ Nach einer bestimmten Anzahl von Abstimmungsrunden, in denen ein Knoten seine Me
 
 Aus diesem Grund bietet der Fast Probabilistic Consensus einen Ansatz, mit dem nach einer geringen Anzahl von Runden und mit einer geringen Anzahl von Stichprobenknoten ein Konsens erzielt werden kann, wodurch die erforderlichen Bedingungen für jeden Abstimmungsprozess mit Shimmer erfüllt werden.
 
-### [Nächstes Kapitel](./05_iotas_zukunft)
-### [Kapitel zurück](./04_module_5_2)
+### [Nächstes Kapitel](./05_iotas_zukunft.md)
+### [Kapitel zurück](./04_module_5_2.md)

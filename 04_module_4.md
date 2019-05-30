@@ -24,5 +24,5 @@ Durch Hinzufügen einer Abstimmungsschicht zur Identifizierung des bevorzugten T
 
 Dies wird die Zuverlässigkeit von Transaktionen im IOTA-Netzwerk erhöhen und den Bedarf an "reattachments" und "promotions" erheblich verringern. Dadurch wird auch die Auswahl der Tipps viel effizienter.
 
-### [Nächstes Kapitel](./04_module_5_0)
-### [Kapitel zurück](./04_module_3)
+### [Nächstes Kapitel](./04_module_5_0.md)
+### [Kapitel zurück](./04_module_3.md)

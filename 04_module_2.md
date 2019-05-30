@@ -8,5 +8,5 @@ Wir führen einen Auto-Peering-Mechanismus ein, bei dem jeder Knoten seine eigen
 
 Darüber hinaus wird der Auto-Peering-Mechanismus versuchen, ein Small-World-Netzwerk zu erstellen, in dem Knoten von jedem anderen Knoten über eine kleine Anzahl von Zwischenschritten erreicht werden können. Diese Eigenschaft beschleunigt das Erziellen eines Konsens erheblich.
 
-### [Nächstes Kapitel](./04_module_3)
-### [Kapitel zurück](./04_module_1)
+### [Nächstes Kapitel](./04_module_3.md)
+### [Kapitel zurück](./04_module_1.md)
