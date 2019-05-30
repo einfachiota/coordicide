@@ -17,6 +17,6 @@ Der Coordicide ist endlich enthüllt! Was es genau auf sich hat, könnt ihr hier
 - [Module 5.1: SHIMMER](04_module_5_1.md)
 - [Module 5.1.1: CELLULAR CONSENSUS](04_module_5_2.md)
 - [Module 5.1.1: FAST PROBABILISTIC CONSENSUS](04_module_5_3.md)
-- [Die Zukunft](05_die_zukunft)
+- [IOTA's Zukunft](05_iotas_zukunft)
 - [Zusammenfassung](06_zusammenfassung.md)
 - [Glossar](glossar.md)
