@@ -6,7 +6,7 @@ Derzeit implementiert der Tangle einen einfachen Spam-Schutzmechanismus, der auf
 
 Es ist wichtig anzumerken, dass die Verwendung von PoW als Ratenkontrollmechanismus nicht mit einem auf PoW basierenden Konsens zusammenhängt, den unser Coordicide explizit beseitigt. Unser Ratenkontrollmechanismus ist so konzipiert, dass er weder zu Minern führt noch viel Energie benötigt.
 
-![04_3_adaptive_rate_control](assets/04_3_adaptive_rate_control.gif)
+![04_3_adaptive_rate_control](https://github.com/einfachiota/coordicide/raw/master/assets/04_3_adaptive_rate_control.gif)
 
 In unserem Modell können Knoten mit höherem Mana mehr Transaktionen ausführen, ohne die gleichen PoW-Anforderungen wie Knoten mit niedrigerem Ruf. Unabhängig vom Mana eines Knotens steigt der PoW-Schwierigkeitsgrad mit der Transaktionsrate. d.h. um mehr Transaktionen in einem kurzen Zeitintervall auszugeben, muss ein Knoten die Schwierigkeit des kryptografischen Puzzles erhöhen, während für niedrigere Transaktionsraten eine viel niedrigere Schwierigkeit ausreichend wäre.
 

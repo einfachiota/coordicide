@@ -14,7 +14,7 @@ Wir schlagen ein Reputationssystem vor, das wir Mana nennen:
 - Benutzer können Werttransaktionen mit einem Knoten ihrer Wahl verknüpfen, indem sie der Transaktionssignatur eine Knoten-ID hinzufügen. In der Praxis wird dies höchstwahrscheinlich derselbe Knoten sein, der zum Ausgeben der Transaktion verwendet wird.
 - Die Transaktion führt zu einer Manaverschiebung von dem Knoten, dem sie zuvor zu dem in dieser Transaktion angegebenen Knoten zugewiesen wurde. Dies erhöht das Gesamtmana des ausgewählten Knotens.
 
-![04_1_mana](assets/04_1_mana.gif)
+![04_1_mana](https://github.com/einfachiota/coordicide/raw/master/assets/04_1_mana.gif)
 
 
 Das Manasystem kombiniert die Vorteile eines fondsbasierten Sybil-Schutzmechanismus mit denen eines Reputationssystems. Mana wird nicht nur einem Knoten gutgeschrieben, indem IOTA-Token an den Knotenbesitzer übertragen werden. Sie erhalten es auch, indem Sie der Community einen guten Service bieten und gültige Transaktionen an das Netzwerk weitergeben. Der Betrag des insgesamt gutgeschriebenen Manas - als Maß für das Vertrauen oder den Ruf - kann verwendet werden, um „gute“ Akteure auf andere Weise weiter zu belohnen (z. B. in den Modulen zur Ratenkontrolle oder Abstimmung).

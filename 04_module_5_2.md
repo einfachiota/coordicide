@@ -14,7 +14,7 @@ Dies beschreibt einen Mechanismus, bei dem Knoten die Mehrheitsmeinung ihrer Nac
 
 Es ist extrem schnell und robust. Die folgende Animation zeigt eine Simulation von 10.000 Knoten, die bei 128 in Konflikt stehenden Transaktionen einen Konsens erzielen (verschiedene Farben stehen für verschiedene Transaktionen):
 
-![04_5_2_module_5.1.1](assets/04_5_2_module_5.1.1.gif)
+![04_5_2_module_5.1.1](https://github.com/einfachiota/coordicide/raw/master/assets/04_5_2_module_5.1.1.gif)
 
 In diesem Beispiel erreicht das Netzwerk innerhalb von Sekunden einen Konsens.
 
@@ -26,7 +26,7 @@ Die Tatsache, dass Abstimmungen immer mit denselben Nachbarn ausgetauscht werden
 
 Durch die Behandlung von Knoten als Zellen eines lebenden Organismus können wir ein „Immunsystem“ implementieren. Dies schützt das Netzwerk vor Angriffen, indem die Teilnehmer gezwungen werden, sich an die Regeln zu halten, und bietet einen besseren Schutz als herkömmliche Maßnahmen wie den Schutz von Sybil. Da alle Nachbarn zufällig ausgewählt werden, ist der Prozess, mit dem Shimmer einen Konsens erzielt, höchst wahrscheinlich. Auf Knotenebene ist der zelluläre Konsens jedoch deterministisch. Auf diese Weise können wir das Verhalten eines Knotens überprüfen, wenn wir die Meinung seiner Nachbarn kennen. Schlechte Akteure, die gegen die Regeln verstoßen, können daher (wie unten gezeigt) von jedem ihrer Nachbarn sofort erkannt und vertrieben werden.
 
-![04_5_2_gossip.gif](assets/04_5_2_gossip.gif)
+![04_5_2_gossip.gif](https://github.com/einfachiota/coordicide/raw/master/assets/04_5_2_gossip.gif)
 
 Diese Idee kann in dem folgenden Protokoll, das wir "Sprich über die Meinung" nennen, formalisiert werden:
 

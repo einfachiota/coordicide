@@ -12,13 +12,13 @@ Herkömmliche DLTs weisen begrenzende Faktoren auf, die sie zur Erreichung des I
 
 Die eigen Beschränkung der Geschwindigkeit von Blockchain-Netzwerken wird allgemein als "Blockchain-Engpass" ("bottleneck") bezeichnet. Bei der Blockchain gibt es nur eine Stelle, an die neue Transaktionen angefügt werden können - das Ende der Kette. Die daraus resultierenden negativen Auswirkungen auf den Netzwerkdurchsatz werden in dieser einfachen Grafik dargestellt:
 
-![01_blockchain_bottleneck](assets/01_blockchain_bottleneck.gif)
+![01_blockchain_bottleneck](https://github.com/einfachiota/coordicide/raw/master/assets/01_blockchain_bottleneck.gif)
 
 Im Gegensatz dazu ist die Kerndatenstruktur in IOTA hochgradig skalierbar. Dies wird mit einer einfachen Regel ermöglicht: Jede Transaktion referenziert und genehmigt zwei bestehende Transaktionen. Diese Regel definiert die zugrunde liegende Datenstruktur von IOTA - dem Tangle -, das mathematisch als gerichteter azyklischer Graph (DAG) bezeichnet wird.
 
 DAGs sind nicht auf eine einzige Stelle zum Anhängen neuer Transaktionen beschränkt, sondern bieten mehrere Stellen, an denen Transaktionen angehängt werden können. Benutzer können weiterhin neue Transaktionen an verschiedene Teile des Tangle anhängen, ohne auf die Bestätigung durch andere Transaktionen zu warten:
 
-![01_tangle_bottleneck](assets/01_tangle_bottleneck.gif)
+![01_tangle_bottleneck](https://github.com/einfachiota/coordicide/raw/master/assets/01_tangle_bottleneck.gif)
 
 ## 2. Der Konsensmechanismus.
 
@@ -28,6 +28,6 @@ In IOTA gibt es keinen Unterschied zwischen Minern und Nutzern. Alle Knoten (Nod
 
 Die Definition einer Konsensschicht, die beschreibt, wie sich Knoten darauf einigen, welche Transaktionen vertrauenswürdig sind, ist das Kernstück von IOTA. In der aktuellen IOTA-Implementierung vertrauen Knoten Transaktionen, die von Meilensteinen referenziert und genehmigt werden, die vom Koordinator ausgestellt wurden. Die Verwendung dieses zentralen „Finality-Geräts“ war notwendig, um die Sicherheit in den Kinderschuhen des Netzwerks zu gewährleisten.
 
-![01_milestones](assets/01_milestones.gif)
+![01_milestones](https://github.com/einfachiota/coordicide/raw/master/assets/01_milestones.gif)
 
 Die Lösung für Coordicide stellt sicher, dass das Netzwerk nicht beeinträchtigt wird, gleichzeitig werden Dezentralisierung und Sicherheit gewährleistet und eine beispiellose Skalierbarkeit gefördert.

@@ -7,7 +7,7 @@ Es gibt indirekte Implikationen, die ebenso faszinierend sind, aber möglicherwe
 
 
 ## Zuverlässige Zeitstempel
-![05_future1](assets/05_future1.png)
+![05_future1](https://github.com/einfachiota/coordicide/raw/master/assets/05_future1.png)
 
 Anstatt direkt über das Schicksal von Transaktionen abzustimmen, können wir auch über die Glaubwürdigkeit von Zeitstempeln abstimmen. Hier bedeutet "glaubwürdig", dass die Differenz zwischen dem ausstellenden Zeitstempel einer Transaktion und ihrer Ankunftszeit an den Knoten einen bestimmten Schwellenwert nicht überschreitet.
 
@@ -21,7 +21,7 @@ Die Unfähigkeit, einen geordnete Reihenfolge zu erstellen, war einer der größ
 
 
 ## mehrere Tangles (Domänen)
-![05_future2](assets/05_future2.png)
+![05_future2](https://github.com/einfachiota/coordicide/raw/master/assets/05_future2.png)
 
 Ohne den Koordinator ist es möglich, dass mehrere Tangles gleichzeitig als separate Domänen existieren. Jede Domäne kann eine andere Logik für die von ihr verarbeiteten Transaktionen implementieren (über verschiedene IXI-Module) und den enthaltenen Token eine andere Bedeutung zuordnen. Auch wenn diese Domänen nicht unbedingt dieselben Regeln verwenden, ist es dennoch möglich, dass Transaktionen von einer Domäne auf Daten von einer anderen Domäne verweisen.
 
@@ -30,7 +30,7 @@ Auf diese Weise können wir äußerst komplexe Anwendungsfälle mit sehr einfach
 Der modulare Ansatz bietet nicht nur viel Flexibilität für IOTA, sondern ermöglicht auch die Aufteilung der Netzwerkaktivität in separate Domänen und erhöht damit die Skalierbarkeit von IOTA. Beispielsweise könnte ein "Nur-Daten" -Tangle, das nur Datentransaktionen enthält, von einem Tangle getrennt werden, das nur Werttransaktionen enthält. Da bei Datentransaktionen niemals Konflikte auftreten können, können Transaktionen in diesem Tangle ohne Einbeziehung eines Konsensmechanismus sofort bestätigt werden. Dies würde eine Vielzahl von IoT-Anwendungsfällen ermöglichen, die von unveränderlichen Daten abhängen.
 
 ## Unterschiedliche Datenstrukturen für jede Domain
-![05_future3](assets/05_future3.png)
+![05_future3](https://github.com/einfachiota/coordicide/raw/master/assets/05_future3.png)
 
 Da der Tangle die allgemeinste Form der DAG ist und Bundles 1 auf n andere Transaktionen verweisen können, können jetzt ganz andere Datenstrukturen erstellt werden, die auf die spezifischen Anforderungen eines Anwendungsfalls zugeschnitten sind. Durch Implementieren eines anderen Tippauswahlalgorithmus kann eine blockchainartige Struktur erstellt werden, bei der Stamm und Zweig einer Transaktion immer auf die vorherige Transaktion verweisen. In ähnlicher Weise könnten Strukturen wie „Blockgitter“ leicht mit einem anderen Algorithmus für die Tippauswahl emuliert werden. Den Möglichkeiten sind wirklich keine Grenzen gesetzt. Der modulare Ansatz garantiert die ultimative Freiheit des Protokolls.
 

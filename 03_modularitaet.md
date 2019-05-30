@@ -2,7 +2,7 @@
 
 Das Potenzial eines wirklich modularen DLT wird oft übersehen. Viele gehen davon aus, dass DLTs von Natur aus aktualisierbar sind, da sie Software sind. In der Praxis wird jedoch Software, die nicht modular aufgebaut ist, stagnieren. Die Flexibilität für zukünftige Upgrades ist entscheidend für den langfristigen Erfolg einer derart schnell fortschreitenden Technologie.
 
-![03_hexagon-modularity](assets/03_hexagon-modularity.png)
+![03_hexagon-modularity](https://github.com/einfachiota/coordicide/raw/master/assets/03_hexagon-modularity.png)
 
 Um dem IOTA-Protokoll diese Flexibilität zu geben und es in Zukunft für eine Vielzahl von Anwendungsfällen zu ermöglichen, erneuert die Coordicide-Lösung IOTA als modulares DLT. Wir haben mehrere Module entwickelt, die den Koordinator in der Konsensschicht der IOTA überflüssig machen.
 

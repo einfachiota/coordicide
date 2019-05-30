@@ -2,11 +2,11 @@
 
 Der Tippauswahlalgorithmus ist die Methode, mit der Transaktionen zur Genehmigung ausgewählt werden. Ein guter Algorithmus ermöglicht es dem Tangle, stabil und sicher zu wachsen.
 
-![04_4_tangle](assets/04_4_tangle.gif)
+![04_4_tangle](https://github.com/einfachiota/coordicide/raw/master/assets/04_4_tangle.gif)
 
 Um eine neue Transaktion an den Tangle anzuhängen, muss der Algorithmus zwei vorherige Transaktionen auswählen und genehmigen - vorzugsweise Tipps. Dieser Genehmigungsmechanismus repräsentiert den „Glauben“ an den Tangle: Wenn die Transaktion y die Transaktion x genehmigt, bedeutet dies, dass y glaubt, dass die Transaktion x gültig ist und dass auch ihre gesamte Historie gültig ist.
 
-![04_4_reliabale2](assets/04_4_reliabale2.png)
+![04_4_reliabale2](https://github.com/einfachiota/coordicide/raw/master/assets/04_4_reliabale2.png)
 
 In der Vergangenheit haben wir einen voreingenommenen "random walk" als Tippauswahl-Algorithmus verwendet, da dies nicht nur zu einer gesunden Tangle-Struktur führte, sondern uns auch die Identifizierung des schwersten und daher bevorzugten Teils des Tangle ermöglichte. Dieser Mechanismus war zwar für das Erreichen eines Konsenses von wesentlicher Bedeutung, zeigte jedoch auch Eigenschaften, die weniger wünschenswert waren:
 
@@ -20,6 +20,6 @@ Durch Hinzufügen einer Abstimmungsschicht zur Identifizierung des bevorzugten T
 
 - Es werden verschiedene Tippauswahlmechanismen verwendet, die nicht mehr auf dem kumulierten Gewicht basieren und eine geringere Wahrscheinlichkeit haben, gültige Transaktionen zurückzulassen.
 
-![04_4_reliabale1](assets/04_4_reliabale1.png)
+![04_4_reliabale1](https://github.com/einfachiota/coordicide/raw/master/assets/04_4_reliabale1.png)
 
 Dies wird die Zuverlässigkeit von Transaktionen im IOTA-Netzwerk erhöhen und den Bedarf an "reattachments" und "promotions" erheblich verringern. Dadurch wird auch die Auswahl der Tipps viel effizienter.

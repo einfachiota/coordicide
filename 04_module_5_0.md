@@ -18,7 +18,7 @@ Der Hauptnachteil traditioneller Abstimmungssysteme besteht darin, dass sie nich
 
 Wir führen Shimmer ein: ein Abstimmungsschema, das die Probleme der traditionellen Abstimmungsschemata überwindet.
 
-![04_5_shimmer](assets/04_5_shimmer.gif)
+![04_5_shimmer](https://github.com/einfachiota/coordicide/raw/master/assets/04_5_shimmer.gif)
 
 In den folgenden Abschnitten beschreiben wir den aktuellen Stand der Abstimmungsforschung, indem wir zwei Kandidaten für den Abstimmungsaustausch innerhalb von Shimmer vorstellen und erläutern, wie Konsens erzielt werden kann:
 

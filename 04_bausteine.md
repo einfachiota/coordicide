@@ -10,7 +10,7 @@ Die Antwort ist eigentlich sehr einfach. Wir möchten, dass alle ehrlichen Knote
 - Da bei IOTA kein "Anführer" gewählt werden muss, um Blöcke zu validieren, über was wird dann eigentlich abgestimmt?
 Die Antwort ist wieder relativ einfach. Wenn zwei Transaktionen in Konflikt stehen, führt dies zu einer Aufteilung des Tangles. Um den Konflikt zu lösen, stimmen Knoten über eine bevorzugte Transaktion ab (die nicht bevorzugte Transaktion wird zu einer Waise).
 
-![04_the_modules](assets/04_the_modules.png)
+![04_the_modules](https://github.com/einfachiota/coordicide/raw/master/assets/04_the_modules.png)
 
 Herkömmliche PoW-basiertee DLT's bieten eine Reihe von Antworten auf diese Fragen, diese weisen jedoch erhebliche Nachteile auf. Ein PoW-basierter Konsens in IOTA würde Minenrennen einleiten und zu einem erhöhten Stromverbrauch und höheren Kosten führen, wodurch die Verwendung des Netzwerks im IoT eingeschränkt würde.
 

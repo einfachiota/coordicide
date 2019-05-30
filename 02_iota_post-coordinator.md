@@ -34,7 +34,7 @@ Die Entfernung des Koordinators allein reicht nicht aus, um eine Dezentralisieru
 
 Ziel von Coordicide ist es, das Skalierbarkeitstrilemma zu lösen, indem ein dezentrales, sicheres Netzwerk bereitgestellt wird und gleichzeitig eine hohe Transaktionsrate erhalten bleibt. Kern der Lösung ist ein Abstimmungsmechanismus, über den Knoten die Meinungen anderer Knoten anfordern, um zu entscheiden, welche Transaktionen in den Tangle aufgenommen und welche verwaist werden sollen.
 
-![02_module_5](assets/02_module_5.gif)
+![02_module_5](https://github.com/einfachiota/coordicide/raw/master/assets/02_module_5.gif)
 
 Um den Koordinator zu entfernen, müssen eine Reihe von Herausforderungen gelöst werden. Aufgrund der Komplexität der Lösung wird Coordicide in verschiedene Komponenten unterteilt. Dieser Ansatz macht unseren Coordicide modular, was bedeutet, dass jedes Modul unabhängig ersetzt werden kann, wenn neue Forschungsergebnisse weitere Verbesserungen ergeben.
 

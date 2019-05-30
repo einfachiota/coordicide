@@ -6,11 +6,11 @@ Einzelne autonome Agenten, die nach vordefinierten Regeln agieren, sind in viele
 
 Wenn unter Shimmer ein Konflikt auftritt, tauschen die Knoten iterativ Meinungen darüber aus, welche der widersprüchlichen Transaktionen sie bevorzugen, bis schließlich ein Konsens erzielt wird. Die Knoten erhalten eine globale Ansicht des bevorzugten Teils des Tangle, was für die Gewährleistung eines Konsenses von entscheidender Bedeutung ist. Irgendwann kann ein Knoten ferner beschließen, seine Entscheidung als abgeschlossen zu markieren. Dies bedeutet, dass es seine Beteiligung am Abstimmungsprozess einstellt und auch bei einer überwältigenden Meinungsänderung (aufgrund eines Angriffs) nie wieder von dieser Meinung abweichen wird.
 
-![04_5_1_voting](assets/04_5_1_voting.gif)
+![04_5_1_voting](https://github.com/einfachiota/coordicide/raw/master/assets/04_5_1_voting.gif)
 
 Da Shimmer für den Konsens im Tangle verwendet wird, hat das „Mögen“ oder „Ablehnen“ einer Transaktion umfassendere Konsequenzen. Wenn eine Transaktion von einem Knoten "gemocht" wird, muss sie auch alle anderen Transaktionen "mögen", auf die direkt oder indirekt verwiesen wird. Wenn eine Transaktion dagegen "nicht gemocht" ist, kann keine Transaktion, die auf diese Transaktion verweist, "gemocht" werden.
 
-![04_5_1_reliabale3](assets/04_5_1_reliabale3.png)
+![04_5_1_reliabale3](https://github.com/einfachiota/coordicide/raw/master/assets/04_5_1_reliabale3.png)
 
 Es ist wichtig zu beachten, dass nicht bei jeder Transaktion abgestimmt werden muss. Transaktionen, die mit keiner anderen Transaktion in Konflikt stehen, können allein aufgrund lokaler Modifikatoren (d. H. Nach Ablauf einer bestimmten Zeitspanne) als "beliebt" eingestuft werden. Abstimmungen sind nur erforderlich, um Konflikte und Randfälle zu lösen.
 
